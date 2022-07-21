@@ -1,2 +1,5 @@
-# discord-server-boost-tool
-Uses nitro tokens, to automatically boost servers...
+# Discord Server Boosts
+Tool that uses nitro tokens, to automatically boost servers...
+
+- Requires Tokens to have nitro
+ 
