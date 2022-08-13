@@ -1,6 +1,8 @@
 # Discord Server Boosts
 Tool that uses nitro tokens, to automatically boost servers...
 
+**Please use the Improved Version: https://github.com/BitStore-Community/BitBoost**
+
 - Requires Tokens to have nitro
 - Requires Tokens to be on the Server
 
